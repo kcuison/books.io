@@ -1,0 +1,65 @@
+{
+  "books":
+  [
+    {
+      "title":"Patron Saints of Nothing",
+      "author":"Randy Ribay",
+      "coverImage":"img/pson-cover.jpg",
+      "summary":"A coming-of-age story about grief, guilt,
+            and the risks a Filipino-American teenager takes to
+            uncover the truth about his cousin's murder. Jay Reguero
+            plans to spend the last semester of his senior year playing
+            video games before heading to the University of Michigan in the fall.",
+      "reviews":
+            [
+              {"firstReview":"Brilliant, honest, and equal parts heartbreaking and
+                      soul-healing. - Laurie Halse Anderson, author of SHOUT "},
+              {"secondReview":"Passionately and fearlessly, Ribay delves into matters
+                      of justice, grief, and identity. - Publishers Weekly"},
+              {"thirdReview":"Complex, gripping, haunting and deeply human… a story
+                      alive with longing and pain and grace.  – Kelly Gilbert, author
+                      of Picture Us In The Light"}
+            ]
+    },
+    {
+      "title":"An Infinite Number of Parallel Universes",
+      "author":"Randy Ribay",
+      "coverImage":"img/infinite-cover.jpg",
+      "summary":"Told in the narrative style of Akira Kurosawa's RASHOMAN, AN INFINITE
+            NUMBER OF PARALLEL UNIVERSES is at turns geeky, funny, and lyrical as it tells a
+            story about that time in life when friends need each other to become more than just
+             people that hang out together.",
+      "reviews":
+            [
+              {"firstReview":"Level up in this compelling adventure that tests the heroics of
+                        four friends who can't use cheat codes to solve their personal trials. Experience
+                        Points await readers! - Adam Silvera, author of More Happy Than Not"},
+              {"secondReview":"Debut novelist Ribay gives the story a distinctively diverse and
+                        nerd-centric cast. - Publishers Weekly"},
+              {"thirdReview":"A novel written by a geek, for geeks, that manages to touch on so much,
+                        and packs a surprising, emotional punch. The characters and their journey together will
+                        stick with you for a while. - BookRiot"}
+            ]
+    },
+    {
+      "title":"After The Shot Drops",
+      "author":"Randy Ribay",
+      "coverImage":"img/shot-cover.jpg",
+      "summary":"A powerful novel about friendship, basketball, and one teen's mission to create a
+            better life for his family in the tradition of Jason Reynolds, Matt de la Pena, and Walter Dean
+            Myers. Bunny and Nasir have been best friends forever, but when Bunny accepts an athletic
+            scholarship across town, Nasir feels betrayed.",
+      "reviews":
+            [
+              {"firstReview":"Without a doubt, Ribay’s compelling book belongs on the shelf alongside
+                        contemporary heavy-hitters like Angie Thomas’s The Hate U Give, Brendan Kiely and Jason
+                        Reynolds’s All-American Boys, and Nic Stone’s Dear Martin. - School Library Journal"},
+              {"secondReview":"A well-executed book featuring complex, diverse characters we rarely
+                         meet—a real winner for its heartbeat, compassion, and integrity. - Kirkus"},
+              {"thirdReview":"As the boys take tentative steps to salvage their friendship, they
+                        navigate high-stakes choices and consider the value of loyalty, integrity, and sacrifice
+                        in a story driven by fast-paced drama on and off the court. - Publishers Weekly"}
+            ]
+    }
+  ]
+}
